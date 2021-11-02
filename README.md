@@ -1,5 +1,6 @@
-# basic-html-tailwind-starter
-This code has tailwind setup in it. Also purging and minification of CSS is also incorporated. 
+# html-tailwind-website-after-dark-mode
+This project is related to the youtube video https://youtu.be/PP6ZtS8SbUQ
+This the version of code in which i have enabled dark mode and the toggle buttons.
 
 ### Run the following command to install the required packages
 > npm i -D
